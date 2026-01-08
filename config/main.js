@@ -26,7 +26,7 @@ function displayFilteredGames(filteredGames) {
     gameDiv.classList.add("game");
 
     const gameImage = document.createElement("img");
-    gameImage.src = `${serverUrl1}/${game.url}/${game.image}`;
+    gameImage.src = `${game.image}`;
     gameImage.alt = game.name;
     gameImage.onclick = () => {
       window.location.href = `play.html?gameurl=${game.url}/`;
