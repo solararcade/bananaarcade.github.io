@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "banana arcade 🍌"; // Change this to change the name of your website.
-var subtext = "how's everyone's day goin'?"; // set the subtext
+var sitename = "solar."; // Change this to change the name of your website.
+var subtext = "previously known as banana arcade."; // set the subtext
 
 // more settings in main.css
 
