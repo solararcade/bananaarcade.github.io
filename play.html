@@ -31,7 +31,7 @@
 
       if (!gameUrl) {
         alert("Game URL not provided!");
-        window.location.href = "/"; // Redirect to homepage if game URL is missing
+        window.location.href = ""; // Redirect to homepage if game URL is missing
       } else {
         const embedUrl = `${gameUrl}`;
         document.getElementById("gameFrame").src = embedUrl;
