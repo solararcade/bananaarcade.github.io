@@ -656,13 +656,13 @@
   {
     "name": "Five Nights at Freddy's (FNAF)",
     "image": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/fnaf.webp",
-    "url": "https://db.duck.theducklair.com/html/fnaf/index.html",
+    "url": "https://solararcade.github.io/cdn/fnaf1.html",
     "new": false
   },
   {
-    "name": "Five Nights at Freddy's (FNAF)",
-    "image": "https://cdn.jsdelivr.net/gh/mathlesson/mathlesson.github.io/fnaf.webp",
-    "url": "https://db.duck.theducklair.com/html/fnaf/index.html",
+    "name": "Five Nights at Freddy's 2 (FNAF 2)",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/39.png",
+    "url": "https://solararcade.github.io/cdn/fnaf2.html",
     "new": false
   },
   {
